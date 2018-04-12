@@ -30,11 +30,9 @@ header {
     max-height: 150px;
 }
 
-img {
-    max-width: 80%;
-    max-height: 80%;
+.header__logo {
+    height: 72px;
 }
-
 .header__title, .header__subtitle {
     text-align: right;
     vertical-align: top;
