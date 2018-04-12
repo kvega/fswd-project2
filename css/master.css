@@ -38,6 +38,7 @@ img {
 .header__title, .header__subtitle {
     text-align: right;
     vertical-align: top;
+    margin-right: 32px;
 }
 
 .header__title {
