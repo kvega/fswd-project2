@@ -49,6 +49,8 @@ img {
 
 .hero_img {
     min-height: 450px;
+    background-image: url("../img/code-coding-computer-248515.jpg");
+    background-size: cover;
 }
 .project {
   min-height: 150px;
