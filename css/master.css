@@ -83,6 +83,10 @@ Responsive style.
     .project {
         width: 33.333333%;
     }
+
+    .hero_img {
+        min-height: 300px;
+    }
 }
 
 @media screen and (min-width: 900px) {
