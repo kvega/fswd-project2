@@ -26,8 +26,8 @@ header, nav, footer, section, article, div {
     width: 100%;
 }
 
-header {
-    max-height: 150px;
+.header {
+    min-height: 56px;
 }
 
 .header__logo {
