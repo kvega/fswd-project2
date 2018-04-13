@@ -94,4 +94,8 @@ Responsive style.
         width: 900px;
         margin: 0px auto;
     }
+
+    .hero_img {
+        min-height: 450px;
+    }
 }
