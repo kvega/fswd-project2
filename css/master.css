@@ -54,15 +54,15 @@ header, nav, footer, section, article, div {
   min-height: 150px;
 }
 
-.red {
+#red {
   background-color: #EC1D3B;
 }
 
-.green {
+#green {
   background-color: #0C8542;
 }
 
-.dark_blue {
+#dark_blue {
   background-color: #2A457A;
   color: #efefef;
 }
