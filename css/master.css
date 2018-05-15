@@ -52,6 +52,7 @@ header, nav, footer, section, article, div {
 }
 .project {
   min-height: 150px;
+  text-align: center;
 }
 
 #proj_1 {
@@ -74,6 +75,8 @@ header, nav, footer, section, article, div {
 
 .project a {
     text-decoration: none;
+    vertical-align: middle;
+    color: white;
 }
 .orange {
     background-color: #F79420;
