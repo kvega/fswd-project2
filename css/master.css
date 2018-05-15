@@ -54,21 +54,29 @@ header, nav, footer, section, article, div {
   min-height: 150px;
 }
 
-#red {
-  background-color: #EC1D3B;
+#proj_1 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/17/Chaos_Theory_%26_Double_Pendulum_-_3.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
-#green {
-  background-color: #0C8542;
+#proj_2 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/fa/Ikea_warehouse_interior.JPG");
+    background-size: cover;
+    background-position: center;
 }
 
-#dark_blue {
-  background-color: #2A457A;
-  color: #efefef;
+#proj_3 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Melk_-_Abbey_-_Library.jpg/1200px-Melk_-_Abbey_-_Library.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
+.project a {
+    text-decoration: none;
+}
 .orange {
-  background-color: #F79420;
+    background-color: #F79420;
 }
 /*
 Responsive style.
