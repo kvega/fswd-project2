@@ -33,6 +33,7 @@ header, nav, footer, section, article, div {
 .header__logo {
     height: 72px;
 }
+
 .header__title, .header__subtitle {
     text-align: right;
     vertical-align: top;
