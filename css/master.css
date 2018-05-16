@@ -50,7 +50,19 @@ header, nav, footer, section, article, div {
     min-height: 150px;
     background-image: url("../img/code-coding-computer-248515.jpg");
     background-size: cover;
+    position: relative;
 }
+
+#paragraph {
+    color: white;
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+    font-size: 2em;
+}
+
+}
+
 .project {
   min-height: 150px;
   text-align: center;
