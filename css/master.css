@@ -51,6 +51,7 @@ header, nav, footer, section, article, div {
     background-image: url("../img/code-coding-computer-248515.jpg");
     background-size: cover;
     position: relative;
+
 }
 
 #paragraph {
@@ -58,7 +59,7 @@ header, nav, footer, section, article, div {
     display: inline-block;
     position: absolute;
     bottom: 0px;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 }
@@ -88,12 +89,11 @@ header, nav, footer, section, article, div {
 
 .project a {
     text-decoration: none;
+    text-align: center;
     vertical-align: middle;
     color: white;
 }
-.orange {
-    background-color: #F79420;
-}
+
 /*
 Responsive style.
 */
