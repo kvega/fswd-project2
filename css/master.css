@@ -36,7 +36,7 @@ header, nav, footer, section, article, div {
 }
 
 .header__title, .header__subtitle {
-    text-align: right;
+    text-align: center;
     vertical-align: top;
 }
 
