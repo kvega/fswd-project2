@@ -147,6 +147,10 @@ Responsive style.
         margin: 0px auto;
     }
 
+    .header__title {
+        font-size: 4em;
+    }
+
     .hero_img {
         min-height: 450px;
     }
