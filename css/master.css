@@ -135,6 +135,10 @@ Responsive style.
     .header__title {
         text-align: right;
     }
+
+    .header__subtitle {
+        text-align: right;
+    }
 }
 
 @media screen and (min-width: 900px) {
