@@ -32,7 +32,9 @@ header, nav, footer, section, article, div {
 }
 
 .header__logo {
-    max-height: 250px;
+    max-height: 130px;
+    float: left;
+    margin: 10px;
 }
 
 .header__title, .header__subtitle {
