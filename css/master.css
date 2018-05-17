@@ -32,6 +32,7 @@ header, nav, footer, section, article, div {
 }
 
 .header__logo {
+    min-height: 70px;
     max-height: 130px;
     float: left;
     margin: 10px;
