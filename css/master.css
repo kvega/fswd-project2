@@ -131,6 +131,12 @@ Responsive style.
     }
 }
 
+@media screen and (min-width: 450px) {
+    .header__title {
+        text-align: right;
+    }
+}
+
 @media screen and (min-width: 900px) {
     .container {
         width: 900px;
