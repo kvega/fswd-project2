@@ -27,7 +27,7 @@ header, nav, footer, section, article, div {
 }
 
 .header {
-    min-height: 56px;
+    min-height: 70px;
     max-height: 250px;
 }
 
